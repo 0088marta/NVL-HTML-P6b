@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <meta charset="utf-8">
+      <title>mejores películas para ver</title>
+   </head/
+   <body>
+      <h1>10 mejores películas que recomendaría</h1>
+      <p>A continuación voy a hacer una lista de las 10 películas que a mi me han gustado y que recomendaría que se vieran</p>
+      <ul>
+         <li>Origen</li>
+         <li>Avatar</li>
+         <li>El caballero oscuro</li>
+         <li>Malditos bastardos</li>
+         <li>Interstellar</li>
+         <li>Gran torino</li>
+         <li>Cisne negro</li>
+         <li>Slumdog millonaire</li>
+         <li>La ciudad de las estrellas</li>
+         <li>Infiltrados</li>
+      </ul/
+   </body>
+</html>   
